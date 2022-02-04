@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 WpfGeometry", "11 WpfGeometry\11 WpfGeometry.csproj", "{E5747E58-079B-49E1-A5A2-D77E21525E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 Blend Draw", "11 Blend Draw\11 Blend Draw.csproj", "{46D467BA-302A-40E9-9075-AC44B8116C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5747E58-079B-49E1-A5A2-D77E21525E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5747E58-079B-49E1-A5A2-D77E21525E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5747E58-079B-49E1-A5A2-D77E21525E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5747E58-079B-49E1-A5A2-D77E21525E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D467BA-302A-40E9-9075-AC44B8116C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D467BA-302A-40E9-9075-AC44B8116C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D467BA-302A-40E9-9075-AC44B8116C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D467BA-302A-40E9-9075-AC44B8116C77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {762130F0-40E3-453E-9F73-EDF4C71667E1}
+	EndGlobalSection
+EndGlobal
